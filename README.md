@@ -1,24 +1,12 @@
-<div align="center">
-  
-  <!-- Glowing Banner Title -->
-  <img src="https://demolab.com" alt="Typing SVG" />
+# 🪐 Rs~Developer (Bhumit Patil)
 
-  <p align="center">
-    <strong>16-Year-Old Independent Developer & Designer from Gujarat, India 🇮🇳</strong>
-  </p>
+### 🚀 16-Year-Old Independent Developer & Designer from Gujarat, India 🇮🇳
 
-  <p align="center">
-    <a href="https://github.com">
-      <img src="https://shields.io" alt="GitHub Followers" />
-    </a>
-    <img src="https://shields.io" alt="Age" />
-  </p>
+![GitHub Followers](https://shields.io) ![Age](https://shields.io)
 
-  ---
+---
 
-  ### 🪐 Flagship Projects
-
-</div>
+### 📂 Flagship Projects
 
 #### 🔹 [AIVORA 3.0](https://github.com)
 * **Description:** A futuristic, intelligence-beyond-limits AI application platform designed to seamlessly bridge user intents with complex automation workflows.
@@ -31,33 +19,18 @@
 
 ### 🛠️ Tech Stack & Toolkit
 
-<div align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  
-  <!-- Frameworks & Tools -->
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io🤖-blue?style=flat-square" alt="AI" />
-</div>
+![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![NodeJS](https://shields.io) ![React](https://shields.io) ![Git](https://shields.io)
 
 ---
 
 ### 📊 GitHub Activity Snapshot
 
-<div align="center">
-  <br />
-  <img src="https://vercel.app" alt="Bhumit's GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Bhumit's Streak Stats" width="48%" />
-</div>
+![Bhumit's GitHub Stats](https://vercel.app)
 
-<br />
+![Bhumit's Streak Stats](https://herokuapp.com)
 
-<div align="center">
+---
+
+<p align="center">
   <sub>Layout crafted by Rs~Developer • Built with passion and code.</sub>
-</div>
-
+</p>
